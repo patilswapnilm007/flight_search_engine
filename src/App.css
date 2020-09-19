@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  min-height: 100vh;
 }
 
 .App-logo {
@@ -13,7 +14,7 @@
   }
 }
 
-.App-header {
+.App-header1 {
   background-color: #282c34;
   min-height: 100vh;
   display: flex;
@@ -35,4 +36,51 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+
+.App{
+  display: flex;
+  flex-direction: column;
+}
+.App-content{
+  flex: 1 1 auto;
+  display: flex;
+  flex-direction: row;
+  height: 75vh;
+  border-top: 1px solid gray;
+  box-sizing: border-box;
+}
+.App-header{
+  min-height: 10vh;
+  text-align:left;
+  padding-left:15px;
+  box-sizing: border-box;
+}
+.Search-form{
+  max-width: 30vw;
+  margin: 10px 5px;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+.Search-header{
+  min-height: 50px;
+  text-align:left;
+  display: inline-flex;
+  justify-content: space-between;
+  padding: 5px;
+  box-sizing: border-box;
+}
+.Search-header > h2{
+  margin: 5px;
+}
+.Search-content{
+  border-top: 1px solid gray;
+  overflow: auto;
+}
+.Flight-results{
+  flex: 1 1 auto;
+  display: flex;
+  flex-direction: column;
+  border-left: 1px solid gray;
 }

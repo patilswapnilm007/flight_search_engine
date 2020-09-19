@@ -1,0 +1,30 @@
+.Flight-details{
+    display: flex;
+    flex-direction: row;
+    min-height: 75px;
+    border: 1px solid gray;
+    box-sizing: border-box;
+    margin: 10px;
+    padding: 10px 5px;
+    -webkit-box-shadow: 0px 0px 5px 2px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 0px 5px 2px rgba(0,0,0,0.75);
+    box-shadow: 0px 0px 5px 2px rgba(0,0,0,0.75);
+    border-radius: 10px;
+}
+.Flight-info{
+    flex: 1 1 auto;
+    text-align: left;
+}
+.Flight-info > h1{
+    margin-top:5px;
+    margin-bottom: 2px;
+}
+.Flight-info > p, .Flight-info > h3{
+    margin: 2px;
+}
+.Flight-Ad{
+    box-sizing: border-box;
+    border: 1px solid gray;
+    min-width: 150px;
+    min-height: 150px;
+}
