@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/patilswapnilm007/flight_search_engine/static/css/main.4dfd47fc.chunk.css",
-    "main.js": "/patilswapnilm007/flight_search_engine/static/js/main.d20d48ff.chunk.js",
-    "main.js.map": "/patilswapnilm007/flight_search_engine/static/js/main.d20d48ff.chunk.js.map",
-    "runtime-main.js": "/patilswapnilm007/flight_search_engine/static/js/runtime-main.2ae0e62c.js",
-    "runtime-main.js.map": "/patilswapnilm007/flight_search_engine/static/js/runtime-main.2ae0e62c.js.map",
-    "static/js/2.0fc33ad3.chunk.js": "/patilswapnilm007/flight_search_engine/static/js/2.0fc33ad3.chunk.js",
-    "static/js/2.0fc33ad3.chunk.js.map": "/patilswapnilm007/flight_search_engine/static/js/2.0fc33ad3.chunk.js.map",
-    "index.html": "/patilswapnilm007/flight_search_engine/index.html",
-    "precache-manifest.de135c19170186f6f5ceb5b1748f2079.js": "/patilswapnilm007/flight_search_engine/precache-manifest.de135c19170186f6f5ceb5b1748f2079.js",
-    "service-worker.js": "/patilswapnilm007/flight_search_engine/service-worker.js",
-    "static/css/main.4dfd47fc.chunk.css.map": "/patilswapnilm007/flight_search_engine/static/css/main.4dfd47fc.chunk.css.map",
-    "static/js/2.0fc33ad3.chunk.js.LICENSE.txt": "/patilswapnilm007/flight_search_engine/static/js/2.0fc33ad3.chunk.js.LICENSE.txt"
+    "main.css": "/flight_search_engine/static/css/main.4dfd47fc.chunk.css",
+    "main.js": "/flight_search_engine/static/js/main.0c559fe6.chunk.js",
+    "main.js.map": "/flight_search_engine/static/js/main.0c559fe6.chunk.js.map",
+    "runtime-main.js": "/flight_search_engine/static/js/runtime-main.06da4fcb.js",
+    "runtime-main.js.map": "/flight_search_engine/static/js/runtime-main.06da4fcb.js.map",
+    "static/js/2.0fc33ad3.chunk.js": "/flight_search_engine/static/js/2.0fc33ad3.chunk.js",
+    "static/js/2.0fc33ad3.chunk.js.map": "/flight_search_engine/static/js/2.0fc33ad3.chunk.js.map",
+    "index.html": "/flight_search_engine/index.html",
+    "precache-manifest.b697fb15800b8285f20b98b341fac87c.js": "/flight_search_engine/precache-manifest.b697fb15800b8285f20b98b341fac87c.js",
+    "service-worker.js": "/flight_search_engine/service-worker.js",
+    "static/css/main.4dfd47fc.chunk.css.map": "/flight_search_engine/static/css/main.4dfd47fc.chunk.css.map",
+    "static/js/2.0fc33ad3.chunk.js.LICENSE.txt": "/flight_search_engine/static/js/2.0fc33ad3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.2ae0e62c.js",
+    "static/js/runtime-main.06da4fcb.js",
     "static/js/2.0fc33ad3.chunk.js",
     "static/css/main.4dfd47fc.chunk.css",
-    "static/js/main.d20d48ff.chunk.js"
+    "static/js/main.0c559fe6.chunk.js"
   ]
 }
